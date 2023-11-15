@@ -1,0 +1,15 @@
+/* CartWidget.css */
+.cart-widget {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    color: white; /* Cambia el color a blanco */
+  }
+  
+  .item-count {
+    margin-left: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white; /* Cambia el color a blanco */
+  }
+  
