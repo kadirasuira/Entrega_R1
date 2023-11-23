@@ -1,9 +1,9 @@
 import React from 'react';
 
-const ItemListContainer = ({ greeting }) => {
+const ItemListContainer = ({ bienvenida }) => {
   return (
     <div className="item-list-container">
-      <h2>{greeting}</h2>
+      <h2>{bienvenida}</h2>
     </div>
   );
 };

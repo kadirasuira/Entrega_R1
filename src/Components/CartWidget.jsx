@@ -6,7 +6,7 @@ const CartWidget = () => {
   const itemCount = 5; // Número hardcodeado (puedes cambiarlo según tus necesidades)
 
   return (
-    <div className="cart-widget">
+    <div className="ml-auto">
       <FiShoppingCart size={24} />
       <span className="item-count">{itemCount}</span>
     </div>

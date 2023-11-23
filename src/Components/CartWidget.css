@@ -1,7 +1,6 @@
 /* CartWidget.css */
 .cart-widget {
     display: flex;
-    align-items: center;
     cursor: pointer;
     color: white; /* Cambia el color a blanco */
   }
